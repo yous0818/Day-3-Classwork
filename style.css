@@ -1,8 +1,6 @@
 :root{
    --primary-color: rgb(176, 235, 124);
    --secondary-color: green;
-
-
 }  
 
 #contaner_form {
@@ -17,8 +15,6 @@
     margin: 80px;
     margin-left: 1050px;
     padding: 70px;
-
-
 }
 
 .contaner{
@@ -28,6 +24,17 @@
     font-size: 65px;
     line-height: 70px;
 
+
+}
+
+#div-button{
+    border: 30px;
+    border-style: i;
+    box-sizing: content-box; 70px
+    box-decoration-break: 80px;
+    box-shadow: 20px 20px 60px; var(--secondary-color)
+    
+    
 
 }
 
